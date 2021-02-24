@@ -1,3 +1,8 @@
+# 练习log
+1、2月24 OpenCV中imread/imwrite与imdecode/imencode的异同 https://blog.csdn.net/fengbingchun/article/details/60780232 用于ros2的图像读取发送使用imdecode和imencode
+
+
+
 # OpenCV_Test
 **The main role of the project:**
 - OpenCV's usage [OpenCV GitHub](https://github.com/opencv/opencv)
